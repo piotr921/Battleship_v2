@@ -6,8 +6,8 @@ See game rules: https://en.wikipedia.org/wiki/Battleship_game
 # How to run the game?
 
 - Run **RunServerAndTwoClients.sh** to run server and two clients on one machine
-- Starting server: **mvn exec:java -Dexec.mainClass="com.spanish_inquisition.battleship.server.ServerMain"**
-- Staring client: **mvn exec:java -Dexec.mainClass="com.spanish_inquisition.battleship.client.Client"**
+- Starting server: **mvn exec:java -Dexec.mainClass="ServerMain"**
+- Staring client: **mvn exec:java -Dexec.mainClass="Client"**
 
 # Code quality verification:
 

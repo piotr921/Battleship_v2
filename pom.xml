@@ -293,7 +293,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.spanish_inquisition.battleship.server.ServerMain</mainClass>
+                                    <mainClass>com.spanishinquisition.battleship.server.ServerMain</mainClass>
                                 </manifest>
                             </archive>
                             <finalName>server</finalName>
@@ -312,7 +312,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.spanish_inquisition.battleship.client.Client</mainClass>
+                                    <mainClass>com.spanishinquisition.battleship.client.Client</mainClass>
                                 </manifest>
                             </archive>
                             <finalName>client</finalName>
